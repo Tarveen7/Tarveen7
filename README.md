@@ -6,4 +6,3 @@
 - 💞️ I’m open to collaborating on analytics projects—especially anything involving real-world data (Netflix, housing, retail, you name it).
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tarveen-gill) or tarveengill7781@outlook.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I get weirdly excited about pivot tables and I’ve debugged Excel formulas at 1 a.m. just for fun.
